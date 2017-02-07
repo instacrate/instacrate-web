@@ -12,7 +12,10 @@ firebase.initializeApp(config);
 
 var database = firebase.database();
 
+var _boxes = database.ref("_boxes");
 var boxes = database.ref("boxes");
+
+
 var vendors = database.ref("vendors");
 var categories = database.ref("categories");
 var customers = database.ref("customers");
@@ -21,11 +24,26 @@ var pictures = database.ref("pictures");
 var reviews = database.ref("reviews");
 var subscriptions = database.ref("subscriptions");
 
+function boxes(completion) {
+    _boxes.once("value").then(function (snapshot) {
+        completion(snapshot.val());
+    });
+}
+
 function fetchBoxes(child, completion) {
     boxes.child(child).once("value").then(function (snapshot) {
         completion(snapshot.val());
     });
 }
+
+boxes.once("value", function (data) {
+    var keys = Object.keys(data.val());
+
+    keys.forEach(function (key) {
+        _boxes.child(key).set(true)
+    });
+});
+
 
 // require('../data/vendors.json').forEach(function (vendor) {
 //     vendors.push(vendor);
