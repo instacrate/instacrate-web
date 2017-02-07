@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import {BoxCard} from './components/BoxCard'
 import './index.css';
 
 ReactDOM.render(
-  <App />,
-  document.getElementById('root')
+    <BoxCard path="-KcLMG8tljVOa5he5XI-"/>,
+    document.getElementById('root')
 );

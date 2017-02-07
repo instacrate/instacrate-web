@@ -1,0 +1,299 @@
+[
+	{
+		"id" : 2,
+		"name" : "John Doe",
+		"stripe_id" : null,
+		"email" : "jasgan23@gmail.com",
+		"password" : "$2a$10$fEYjT4jOOLY1ho24DRpt6utpjaUQLg40uBDvw52R/lg4bLmcRsRuS",
+		"salt" : "$2a$10$fEYjT4jOOLY1ho24DRpt6u",
+		"default_shipping" : null
+	},
+	{
+		"id" : 3,
+		"name" : "John Doe",
+		"stripe_id" : null,
+		"email" : "john.doe@yahoo.com",
+		"password" : "$2a$10$ozNXfRctZR/M4L4xxRnnJ.v/e/JylVzlrgcbjDW02hnA3HwM7Kg4S",
+		"salt" : "$2a$10$ozNXfRctZR/M4L4xxRnnJ.",
+		"default_shipping" : null
+	},
+	{
+		"id" : 4,
+		"name" : "Sam Smith",
+		"stripe_id" : null,
+		"email" : "test",
+		"password" : "$2a$10$hsVh6Y1X1KgC5K.qTucko.qEF6k.H91UzOBqAbM0t6e73pRiHVAxG",
+		"salt" : "$2a$10$hsVh6Y1X1KgC5K.qTucko.",
+		"default_shipping" : null
+	},
+	{
+		"id" : 5,
+		"name" : "TestName",
+		"stripe_id" : null,
+		"email" : "TestEmail",
+		"password" : "$2a$10$LldSAE01UWyd6vIxQngItOLRaQNwjTWWDrTQUuk0PO/Lyr9djrPMO",
+		"salt" : "$2a$10$LldSAE01UWyd6vIxQngItO",
+		"default_shipping" : null
+	},
+	{
+		"id" : 6,
+		"name" : "TestName2",
+		"stripe_id" : null,
+		"email" : "TestEmail2",
+		"password" : "$2a$10$rxKYM9205HCJuK0BOCpd7OonRvumuin5XbW2gcaLiKJBFMpBciPSu",
+		"salt" : "$2a$10$rxKYM9205HCJuK0BOCpd7O",
+		"default_shipping" : null
+	},
+	{
+		"id" : 7,
+		"name" : "name",
+		"stripe_id" : "cus_9Wkte3oPsDKzhw",
+		"email" : "email123",
+		"password" : "$2a$10$cgbKQQBACMgYKrnzxeXY/.eMnqoorxMGQ3swUbXhjMI/2GuwXO7kW",
+		"salt" : "$2a$10$cgbKQQBACMgYKrnzxeXY/.",
+		"default_shipping" : 1
+	},
+	{
+		"id" : 8,
+		"name" : "name",
+		"stripe_id" : null,
+		"email" : "email123",
+		"password" : "$2a$10$IU4O/DqA5qcinBR3yHMywuTl.Nw48keo2KYfpRO7eE3HJ8acAxo5.",
+		"salt" : "$2a$10$IU4O/DqA5qcinBR3yHMywu",
+		"default_shipping" : null
+	},
+	{
+		"id" : 9,
+		"name" : "Jasper Gan",
+		"stripe_id" : "cus_9fTlGYQP7eKKeA",
+		"email" : "jasgan100@yahoo.com",
+		"password" : "$2a$10$ctl3dD/i6xhgDMJftfvm8uNiBX9ZnKi.axdYKuWZT7J7wSrj53eDa",
+		"salt" : "$2a$10$ctl3dD/i6xhgDMJftfvm8u",
+		"default_shipping" : 19
+	},
+	{
+		"id" : 10,
+		"name" : "Jasper Gan",
+		"stripe_id" : null,
+		"email" : "jasper.gan@subber.me",
+		"password" : "$2a$10$l/l2VpBle.zJt8ybtVaV5enAmO.NKgh5QgwDEiQ9sALxXEtOFX.ce",
+		"salt" : "$2a$10$l/l2VpBle.zJt8ybtVaV5e",
+		"default_shipping" : null
+	},
+	{
+		"id" : 11,
+		"name" : "Jasper Gan",
+		"stripe_id" : "cus_9WwH1aIsqhT7xC",
+		"email" : "jasgan99@yahoo.com",
+		"password" : "$2a$10$TdMXvjBxGOm...........ejO/yYT3OWdFK1/J9kcawja2Vmd7NSC",
+		"salt" : "$2a$10$TdMXvjBxGOm...........",
+		"default_shipping" : 3
+	},
+	{
+		"id" : 12,
+		"name" : "name",
+		"stripe_id" : "cus_9ckrPYJ6HhCixp",
+		"email" : "hakon",
+		"password" : "$2a$10$FlZnES5XSP8ChsTzYUJMk.P0btbTKdKou2qEziBr78TFc57z3jAqu",
+		"salt" : "$2a$10$FlZnES5XSP8ChsTzYUJMk.",
+		"default_shipping" : null
+	},
+	{
+		"id" : 13,
+		"name" : "Jasper Gan",
+		"stripe_id" : null,
+		"email" : "jasgan23@gmail.com",
+		"password" : "$2a$10$qxE5C6wnDCO.yW/quaG0n.s.6BfejIwqTNKbxan3n7ciPzrv0zQYa",
+		"salt" : "$2a$10$qxE5C6wnDCO.yW/quaG0n.",
+		"default_shipping" : null
+	},
+	{
+		"id" : 14,
+		"name" : "Jasper Gan",
+		"stripe_id" : "cus_9WwNTpwxDQLNj8",
+		"email" : "jasgan3@yahoo.com",
+		"password" : "$2a$10$ZnjqRngfUK308Rkzt2GuVOu6IM3QSyyGmepRluJbIqF5VJ06/e8/K",
+		"salt" : "$2a$10$ZnjqRngfUK308Rkzt2GuVO",
+		"default_shipping" : 29
+	},
+	{
+		"id" : 15,
+		"name" : "Jasper Gan",
+		"stripe_id" : null,
+		"email" : "jasgan100@yahoo.com",
+		"password" : "$2a$10$8AdyJTN2a9mUKhHc7A5LYejoKculkeSisD/vrfo32k9GF93rKQVRq",
+		"salt" : "$2a$10$8AdyJTN2a9mUKhHc7A5LYe",
+		"default_shipping" : null
+	},
+	{
+		"id" : 16,
+		"name" : "Jasper Gan",
+		"stripe_id" : null,
+		"email" : "jasgan23@gmail.com",
+		"password" : "$2a$10$Czz30ASgavVLrV7Oe0HCAuyfiF2oCvZmv9iUUbfyUGIWyssK6XQCu",
+		"salt" : "$2a$10$Czz30ASgavVLrV7Oe0HCAu",
+		"default_shipping" : null
+	},
+	{
+		"id" : 17,
+		"name" : "Jasper Gan",
+		"stripe_id" : null,
+		"email" : "jasgan23@gmail.com",
+		"password" : "$2a$10$qmlu85G50dIr83UlAFWjAuAdsZr7PgYdYXGk2iJIWlaroSI79LOz6",
+		"salt" : "$2a$10$qmlu85G50dIr83UlAFWjAu",
+		"default_shipping" : null
+	},
+	{
+		"id" : 18,
+		"name" : "John Denero",
+		"stripe_id" : null,
+		"email" : "john.denero@yahoo.com",
+		"password" : "$2a$10$7x4NKFCRFT6GtD5xpWeCz.hn6mPKP/5x2QeWFNvCEqrqavuwywOCq",
+		"salt" : "$2a$10$7x4NKFCRFT6GtD5xpWeCz.",
+		"default_shipping" : null
+	},
+	{
+		"id" : 19,
+		"name" : "John Denero",
+		"stripe_id" : null,
+		"email" : "john.denero@yahoo.com",
+		"password" : "$2a$10$TBUsMtOuzxvgoRi.hGTjCuqqtPPbWfMwKpLfzWxMweGPWzM69sPcG",
+		"salt" : "$2a$10$TBUsMtOuzxvgoRi.hGTjCu",
+		"default_shipping" : null
+	},
+	{
+		"id" : 20,
+		"name" : "John Denero",
+		"stripe_id" : null,
+		"email" : "john.denero@yahoo.com",
+		"password" : "$2a$10$W4EzpZnuwoM9i9eYvhtTm.G2HBuAKzEkVwj0TDV5Smy9UFgsTNv.q",
+		"salt" : "$2a$10$W4EzpZnuwoM9i9eYvhtTm.",
+		"default_shipping" : null
+	},
+	{
+		"id" : 21,
+		"name" : "John Denero",
+		"stripe_id" : null,
+		"email" : "john.denero@yahoo.com",
+		"password" : "$2a$10$.BlvtVoAYLzciN5UrLATWO/Sy67wOg7Q0fTKwLZVyz9DHNX4AdOhq",
+		"salt" : "$2a$10$.BlvtVoAYLzciN5UrLATWO",
+		"default_shipping" : null
+	},
+	{
+		"id" : 22,
+		"name" : "Jasper Gan",
+		"stripe_id" : null,
+		"email" : "jasgan500@yahoo.com",
+		"password" : "$2a$10$911CUfwk647EdBh0dft1vuvrGV1UnRQ6kug5STR6kpNUAhPnEE6Xe",
+		"salt" : "$2a$10$911CUfwk647EdBh0dft1vu",
+		"default_shipping" : null
+	},
+	{
+		"id" : 23,
+		"name" : "Jas Ga",
+		"stripe_id" : null,
+		"email" : "jasga100@yahoo.com",
+		"password" : "$2a$10$uchQisCADV5iMmm67wEuje31/isQljvZWEDtRsT0G5EW6mtvob1DS",
+		"salt" : "$2a$10$uchQisCADV5iMmm67wEuje",
+		"default_shipping" : null
+	},
+	{
+		"id" : 24,
+		"name" : "password",
+		"stripe_id" : null,
+		"email" : "password",
+		"password" : "$2a$10$VxvFjVY8Evq5t9rxZt5Qc.mIL5HnGH6/0ZNc7wInbSGEW0N3rIc.y",
+		"salt" : "$2a$10$VxvFjVY8Evq5t9rxZt5Qc.",
+		"default_shipping" : null
+	},
+	{
+		"id" : 25,
+		"name" : "password",
+		"stripe_id" : null,
+		"email" : "password",
+		"password" : "$2a$10$JdRvaftj1vos/MAn6nD0PuIuBQ4THttxKSIfEPHI.XuGhv8Ujmrpu",
+		"salt" : "$2a$10$JdRvaftj1vos/MAn6nD0Pu",
+		"default_shipping" : null
+	},
+	{
+		"id" : 26,
+		"name" : "password",
+		"stripe_id" : null,
+		"email" : "password",
+		"password" : "$2a$10$Ae....................5S0CgpFx6xjJpmDer6nUysuujfgLXHi",
+		"salt" : "$2a$10$Ae....................",
+		"default_shipping" : null
+	},
+	{
+		"id" : 27,
+		"name" : "password",
+		"stripe_id" : "",
+		"email" : "password123",
+		"password" : "$2a$10$6JZQQKLVWYZLM3KFtmtWXOlM4Kb.LrBGu.2h0RM.TjlANdVPVb99C",
+		"salt" : "$2a$10$6JZQQKLVWYZLM3KFtmtWXO",
+		"default_shipping" : null
+	},
+	{
+		"id" : 28,
+		"name" : "Jasper Gan",
+		"stripe_id" : "cus_9fmseQHLAy7inF",
+		"email" : "jasper@berkeley.edu",
+		"password" : "$2a$10$DnzBY8imMcENOJdFdeyFWebP7nYwEoL6mlW3IBgIikr/WZ1BOYzv6",
+		"salt" : "$2a$10$DnzBY8imMcENOJdFdeyFWe",
+		"default_shipping" : 64
+	},
+	{
+		"id" : 29,
+		"name" : "Jasper Gan",
+		"stripe_id" : "cus_9o9XXEi05iwqr8",
+		"email" : "jasper.gan@berkeley.edu",
+		"password" : "$2a$10$ChCDJC6wBWmUPbxC/CI51O3HlOxoLGD7BoSatVqwQ25.TVUutIGba",
+		"salt" : "$2a$10$ChCDJC6wBWmUPbxC/CI51O",
+		"default_shipping" : 75
+	},
+	{
+		"id" : 30,
+		"name" : "password",
+		"stripe_id" : null,
+		"email" : "password123",
+		"password" : "$2a$10$ztKc0igAYTZIlvatotCOz.DagZ6zjxa7J6yhUpxr/V0AmRQYeUdcO",
+		"salt" : "$2a$10$ztKc0igAYTZIlvatotCOz.",
+		"default_shipping" : null
+	},
+	{
+		"id" : 31,
+		"name" : "John Doe",
+		"stripe_id" : "cus_9cmgglwjV9nLQA",
+		"email" : "user@instacrate.co",
+		"password" : "$2a$10$Tj0u1IkIheYv7UCvPrLgj.ERGjWfhoaAL7rwO0eitbz7NVqF1oSoC",
+		"salt" : "$2a$10$Tj0u1IkIheYv7UCvPrLgj.",
+		"default_shipping" : 81
+	},
+	{
+		"id" : 32,
+		"name" : "password",
+		"stripe_id" : null,
+		"email" : "password123",
+		"password" : "$2a$10$TAg/Z2nTJtvUm6ueHEXXnusit877f2/zkT7oRtsGYeqdStKY1Qgai",
+		"salt" : "$2a$10$TAg/Z2nTJtvUm6ueHEXXnu",
+		"default_shipping" : null
+	},
+	{
+		"id" : 33,
+		"name" : "password",
+		"stripe_id" : null,
+		"email" : "password123",
+		"password" : "$2a$10$9uExoj02vbbEnJNiF7NOZO0zKeIZ9kkIiQ4yfLG.gyAXHjsUT9N/6",
+		"salt" : "$2a$10$9uExoj02vbbEnJNiF7NOZO",
+		"default_shipping" : null
+	},
+	{
+		"id" : 34,
+		"name" : "password",
+		"stripe_id" : null,
+		"email" : "password123",
+		"password" : "$2a$10$p65vWyRTWVQumaabgGa7L.0qd9wpDY3wh527xhZIeQeoGqMxXY0fu",
+		"salt" : "$2a$10$p65vWyRTWVQumaabgGa7L.",
+		"default_shipping" : null
+	}
+]

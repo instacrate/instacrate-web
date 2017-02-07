@@ -1,0 +1,122 @@
+[
+	{
+		"id" : 1,
+		"text" : "I love my boxes!! Always packed full of useful health/nutrition samples. Good price, easy service, love the UI.",
+		"rating" : "4",
+		"date" : "2016-12-08T21:49:10+00:00",
+		"box_id" : 1,
+		"customer_id" : 2
+	},
+	{
+		"id" : 2,
+		"text" : "GlossyBox is awesome!",
+		"rating" : "3",
+		"date" : "2016-11-08T21:49:10+00:00",
+		"box_id" : 2,
+		"customer_id" : 2
+	},
+	{
+		"id" : 3,
+		"text" : "This is a great box!",
+		"rating" : "3",
+		"date" : "2016-11-08T21:49:10+00:00",
+		"box_id" : 1,
+		"customer_id" : 2
+	},
+	{
+		"id" : 4,
+		"text" : "Awesome box!",
+		"rating" : "2",
+		"date" : "2016-11-08T21:49:10+00:00",
+		"box_id" : 1,
+		"customer_id" : 2
+	},
+	{
+		"id" : 5,
+		"text" : "Good box!",
+		"rating" : "4",
+		"date" : "2016-11-08T21:49:10+00:00",
+		"box_id" : 1,
+		"customer_id" : 2
+	},
+	{
+		"id" : 7,
+		"text" : "This box is so great",
+		"rating" : "5",
+		"date" : "2016-11-08T21:49:10+00:00",
+		"box_id" : 1,
+		"customer_id" : 2
+	},
+	{
+		"id" : 9,
+		"text" : "This is a 4-star review",
+		"rating" : "4",
+		"date" : "2016-11-08T21:49:10+00:00",
+		"box_id" : 1,
+		"customer_id" : 4
+	},
+	{
+		"id" : 10,
+		"text" : "Glossybox 5-stars!",
+		"rating" : "5",
+		"date" : "2016-11-08T21:49:10+00:00",
+		"box_id" : 2,
+		"customer_id" : 4
+	},
+	{
+		"id" : 12,
+		"text" : "5-Stars!!",
+		"rating" : "5",
+		"date" : "2016-11-08T21:49:10+00:00",
+		"box_id" : 1,
+		"customer_id" : 4
+	},
+	{
+		"id" : 16,
+		"text" : "3-Star Half Review",
+		"rating" : "5",
+		"date" : "2016-11-08T21:49:10+00:00",
+		"box_id" : 1,
+		"customer_id" : 4
+	},
+	{
+		"id" : 17,
+		"text" : "First 5-Star Review for this box.",
+		"rating" : "5",
+		"date" : "2016-11-08T21:49:10+00:00",
+		"box_id" : 3,
+		"customer_id" : 4
+	},
+	{
+		"id" : 19,
+		"text" : "Nice!!!!",
+		"rating" : "4",
+		"date" : "2016-12-20T02:03:57Z",
+		"box_id" : 1,
+		"customer_id" : 4
+	},
+	{
+		"id" : 20,
+		"text" : "I loved the size of this box!",
+		"rating" : "4",
+		"date" : "2016-12-25T08:38:39Z",
+		"box_id" : 3,
+		"customer_id" : 29
+	},
+	{
+		"id" : 21,
+		"text" : "Awesome!",
+		"rating" : "5",
+		"date" : "2016-12-25T08:40:53Z",
+		"box_id" : 2,
+		"customer_id" : 29
+	},
+	{
+		"id" : 23,
+		"text" : "testing",
+		"rating" : "4",
+		"date" : "2017-01-13T17:12:05-06:00",
+		"box_id" : 1,
+		"customer_id" : 29
+	}
+]
