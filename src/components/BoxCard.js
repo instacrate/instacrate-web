@@ -22,6 +22,7 @@ class BoxCard extends React.Component {
     componentDidMount() {
 
         fetchBoxes(this.props.path, data => {
+            console.log(JSON.stringify(data));
             this.setState({
                 name: data.name,
                 vendorName: data.vendorName,
